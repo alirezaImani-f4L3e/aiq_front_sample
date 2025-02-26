@@ -8,7 +8,7 @@ Additionally, you should properly integrate the Shabnam font into the project.
 
 In this section, you should implement the AIQ features display based on the video section.
 
-You can refer to the [AIQ website](https://aiqueue.ir) to view the design specifications for this section. Also we have created a video preview of the section you should implement [here] () . 
+You can refer to the [AIQ website](https://aiqueue.ir) to view the design specifications for this section. Also we have created a video preview of the section you should implement [here](https://drive.google.com/file/d/1TogOZhQpaKxi_hxlv7MrVPDXyE0lYjBF/view?usp=sharing) . 
 
 Implemented component should comply with all device sizes . 
 
