@@ -40,4 +40,4 @@ Font files included in `/public/fonts` directory .
 ## Task submit and deadline : 
 Please push your code to a public repository and send the project URL to this email : [imaniimani.110@gmail.com](mailto:imaniimani.110@gmail.com)
 
-The submission deadline is 1403/12/10 at 23:59.
+The submission deadline is 1403/12/11 at 23:59.
